@@ -1,0 +1,17 @@
+{
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+    "editor.fontFamily": "'Source Code Pro', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "editor.comments.insertSpace": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "git.terminalAuthentication": false,
+    "github.gitAuthentication": false,
+    "keyboard.dispatch": "keyCode",
+    "vscode-neovim.neovimInitVimPaths.linux": "/home/$USER/.config/nvim/init.vim",
+    "vscode-neovim.mouseSelectionStartVisualMode": true,
+}
